@@ -6,4 +6,4 @@ Back-end Developer
 - JAVA/Spring
 
 #### Career
-- 한국IBM Application Developer(2018.01 ~ 현재)
+- 한국IBM - Application Developer(2018.01 ~ 현재)
